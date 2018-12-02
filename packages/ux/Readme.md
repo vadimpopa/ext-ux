@@ -5,12 +5,6 @@ https://fiddle.sencha.com/#view/editor&fiddle/2juh
 ```javascript
 {
   xclass: 'Ext.ux.form.field.TreeCombobox',
-  reference: 'categoryField',
-  anchor: '50%',
-  margin: 0,
-  labelAlign: 'top',
-  name: 'newCat',
-
   displayField: 'text',
   valueField: 'text',
 
